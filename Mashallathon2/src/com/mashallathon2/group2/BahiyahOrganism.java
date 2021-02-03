@@ -1,8 +1,8 @@
-package com.group2;
+package com.mashallathon2.group2;
 
 public class BahiyahOrganism  extends Organism implements Living {
 
-   
+
     public int Age;
     public String Country;
     public String City;

@@ -1,4 +1,4 @@
-package com.group2;
+package com.mashallathon2.group2;
 
 public abstract class Organism {
 
@@ -36,6 +36,6 @@ public abstract class Organism {
         this.energy = energy;
     }
 
-    
+
 
 }

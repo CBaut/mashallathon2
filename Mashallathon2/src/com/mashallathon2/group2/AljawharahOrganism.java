@@ -1,4 +1,4 @@
-package com.group2;
+package com.mashallathon2.group2;
 
 public class AljawharahOrganism  extends Organism implements Living{
 

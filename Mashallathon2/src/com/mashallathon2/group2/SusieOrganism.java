@@ -1,7 +1,7 @@
-package com.group2;
+package com.mashallathon2.group2;
 public class SusieOrganism  extends Organism implements Living{
 
-   
+
     public int Age;
     public String Country;
     public String City;
@@ -28,5 +28,5 @@ public class SusieOrganism  extends Organism implements Living{
         System.out.println("Favirote food : " + Favvv);
     }
 
-    
+
 }

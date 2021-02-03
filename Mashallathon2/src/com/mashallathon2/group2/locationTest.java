@@ -1,4 +1,4 @@
-package com.group2;
+package com.mashallathon2.group2;
 
 import java.util.ArrayList;
 
@@ -6,7 +6,7 @@ public class locationTest {
     public static void main(String[] args) {
         // 1 locaton per group
         // 1 organism per person
-        
+
         ArrayList<Integer> housePopulation = new ArrayList<>();
         // add to the array list
         housePopulation.add(5);
@@ -39,7 +39,7 @@ public class locationTest {
         Bahiyah.FaviorteMusic("Kpop");
         Bahiyah.FaviroteGame("PUBG");
 
-        AljawharahOrganism Aljawharah = new AljawharahOrganism("Aljawhrah Alotaibi ", 50, 40, "SA", "Riyadh ", 23); 
+        AljawharahOrganism Aljawharah = new AljawharahOrganism("Aljawhrah Alotaibi ", 50, 40, "SA", "Riyadh ", 23);
         Aljawharah.FaviorteFood("French fries");
         Aljawharah.FaviorteMusic("Kpop");
         Aljawharah.FaviroteGame("PUBG");
